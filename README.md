@@ -18,7 +18,6 @@
 <p>Clone the repository and install the required dependencies:</p>
 <pre><code>git clone https://github.com/your-username/urdu-sentiment-analysis.git
 cd urdu-sentiment-analysis
-pip install -r requirements.txt
 </code></pre>
 
 <h2 id="usage">Usage</h2>
